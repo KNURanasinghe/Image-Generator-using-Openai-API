@@ -2,7 +2,7 @@
 
 AI Image Generator is a web application that generates images based on user-provided text prompts. It leverages the power of OpenAI's API for image generation and is built using React.
 
-![AI Image Generator]([path_to_your_image_here](https://github.com/KNURanasinghe/Image-Generator-using-Openai-API/blob/main/image_genertor/src/Components/assets/Screenshot%202024-07-24%20225232.png))  <!-- Replace with actual path to your image -->
+![AI Image Generator](image_genertor/src/Components/assets/Screenshot 2024-07-24 225232.png)  <!-- Replace with actual path to your image -->
 
 ## Features
 
