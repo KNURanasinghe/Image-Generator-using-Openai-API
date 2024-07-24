@@ -7,10 +7,10 @@ AI Image Generator is a web application that generates images based on user-prov
 
 ## Features
 
-- **Text-to-Image Generation:** Converts user text prompts into images.
-- **Responsive Design:** Works on various devices and screen sizes.
-- **Loading Indicator:** Displays a loading bar while generating the image.
-- **Error Handling:** Notifies users of any errors during the image generation process.
+- ** Text-to-Image Generation:** Converts user text prompts into images.
+- ** Responsive Design:** Works on various devices and screen sizes.
+- ** Loading Indicator:** Displays a loading bar while generating the image.
+- ** Error Handling:** Notifies users of any errors during the image generation process.
 
 ## Installation
 
