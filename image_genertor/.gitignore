@@ -9,6 +9,8 @@ App.test.js
 logo.svg
 reportWebVitals.js
 setupTests.js
+.env
+
 
 # testing
 /coverage
